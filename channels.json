@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Asian Le Mans Series",
+    "channelID": "UCYnmhsw6smiACWopUlPAfOg",
+    "primary_tag": "ALMS",
+    "secondary_tags": ["LMP2", "LMP3", "GT3"]
+  },
+  {
+    "name": "British F4",
+    "channelID": "UCMyROh3W_whYFCqfeTUndEg",
+    "primary_tag": "F4",
+    "secondary_tags": []
+  },
+  {
+    "name": "BTCC",
+    "channelID": "UCPfVLE1ksDAP9A0Pmo7haHg",
+    "primary_tag": "BTCC",
+    "secondary_tags": []
+  },
+  {
+    "name": "Creventic 24H",
+    "channelID": "UCopWjPe1QbOFNf1dMs97E-w",
+    "primary_tag": "24H",
+    "secondary_tags": []
+  },
+  {
+    "name": "Dakar Rally",
+    "channelID": "UCJVKwvv58Xo3Rt4rF3NiL9w",
+    "primary_tag": "DAKAR",
+    "secondary_tags": []
+  },
+  {
+    "name": "DirtFish",
+    "channelID": "UCKwIWByGLhE8tuUIjddZt5Q",
+    "primary_tag": "RALLY",
+    "secondary_tags": ["WRC", "WRC2", "ARA"]
+  },
+  {
+    "name": "DTM",
+    "channelID": "UCwKq447rYMVI5dAQWMmFnfg",
+    "primary_tag": "DTM",
+    "secondary_tags": []
+  },
+  {
+    "name": "European Le Mans Series",
+    "channelID": "UCU8C8RqGhqH4nhk4mlN1Vwg",
+    "primary_tag": "ELMS",
+    "secondary_tags": ["LMP2", "LMP3", "LMGTE"]
+  },
+  {
+    "name": "F4 Brazil",
+    "channelID": "UC7FwUzLykj2vJLL31x5ek4Q",
+    "primary_tag": "F4",
+    "secondary_tags": []
+  },
+  {
+    "name": "F4 India",
+    "channelID": "UCFNjl8bf0MrEovPd437KOvA",
+    "primary_tag": "F4",
+    "secondary_tags": []
+  },
+  {
+    "name": "F4 Spain",
+    "channelID": "UCae5Eq-xDuKnlSXe_cpjdzw",
+    "primary_tag": "F4",
+    "secondary_tags": []
+  },
+  {
+    "name": "F4 US",
+    "channelID": "UC0T52SVSDiw8tF2HQM5AQ4A",
+    "primary_tag": "F4",
+    "secondary_tags": []
+  },
+  {
+    "name": "FIA World Endurance Championship",
+    "channelID": "UCwU7U7PiarcJKLjDJTnANjw",
+    "primary_tag": "WEC",
+    "secondary_tags": ["HYPERCAR", "LMGT3"]
+  },
+  {
+    "name": "World Rally Championship",
+    "channelID": "UC5G6kTnHXDz0WIBC2VGBOqg",
+    "primary_tag": "WRC",
+    "secondary_tags": ["WRC2", "JWRC", "RALLY"]
+  },
+  {
+    "name": "FIA World Rallycross Championship",
+    "channelID": "UCFD78OTzB27H5HD4cjMp2JQ",
+    "primary_tag": "WRX",
+    "secondary_tags": ["ERC"]
+  },
+  {
+    "name": "F4 Japan",
+    "channelID": "UCZznbK8Z2fGN50i8U_Kdbyg",
+    "primary_tag": "F4",
+    "secondary_tags": []
+  },
+  {
+    "name": "Formula 1",
+    "channelID": "UCB_qr75-ydFVKSF9Dmo6izg",
+    "primary_tag": "F1",
+    "secondary_tags": ["F2", "F3", "F1A"]
+  },
+  {
+    "name": "Formula E",
+    "channelID": "UC-DuRqsBQOEk_5o1q4Ze-Fg",
+    "primary_tag": "FE",
+    "secondary_tags": []
+  },
+  {
+    "name": "Formula Europe",
+    "channelID": "UCrCEln9HtJvw5TDIDli1Rwg",
+    "primary_tag": "FRECA",
+    "secondary_tags": []
+  },
+  {
+    "name": "Goodwood Road & Racing",
+    "channelID": "UC8rador8CU-pTJ6p7WNiv6w",
+    "primary_tag": "GW",
+    "secondary_tags": []
+  },
+  {
+    "name": "GT World",
+    "channelID": "UC-yHapH6mW1ceZ_5PDUf1_g",
+    "primary_tag": "GT3",
+    "secondary_tags": ["GT4", "GT2", "TC", "24H"]
+  },
+  {
+    "name": "IMSA Official",
+    "channelID": "UC58em84jwiyM20qR-iqBDZw",
+    "primary_tag": "IMSA",
+    "secondary_tags": ["GTLM", "GTD"]
+  },
+  {
+    "name": "INDY NXT",
+    "channelID": "UCSihlA2prskLkYQkHpfrxmA",
+    "primary_tag": "INDYNXT",
+    "secondary_tags": []
+  },
+  {
+    "name": "F4 Italy",
+    "channelID": "UCedPzacBuNSiy_klT7Zt6Wg",
+    "primary_tag": "F4",
+    "secondary_tags": []
+  },
+  {
+    "name": "Lamborghini Super Trofeo",
+    "channelID": "UCO2SBo6hz0FewMjl6n5Md-Q",
+    "primary_tag": "LST",
+    "secondary_tags": ["GT3", "24H"]
+  },
+  {
+    "name": "INDYCAR",
+    "channelID": "UCy1F61QvUUQXAXi2Voa_fUw",
+    "primary_tag": "INDYCAR",
+    "secondary_tags": []
+  },
+  {
+    "name": "Nürburgring Langstrecken-Serie",
+    "channelID": "UCQU0BQ0FK1X-t1MXw_6q9yQ",
+    "primary_tag": "NLS",
+    "secondary_tags": []
+  },
+  {
+    "name": "F4 CEZ",
+    "channelID": "UCh02ru7dbH3GVkfUrYleQaQ",
+    "primary_tag": "F4",
+    "secondary_tags": []
+  },
+  {
+    "name": "Porsche Supercup",
+    "channelID": "UC5Z5lkCXe-llUPok-JymKnw",
+    "primary_tag": "PSC",
+    "secondary_tags": []
+  },
+  {
+    "name": "Porsche Motorsport NA",
+    "channelID": "UCch613iK0dXuGLlvFSePzwA",
+    "primary_tag": "PCCNA",
+    "secondary_tags": ["PSCNA", "IMSA"]
+  },
+  {
+    "name": "Super Formula Lights",
+    "channelID": "UCMoJc2knK1Bll7_E-1MYpqQ",
+    "primary_tag": "SFL",
+    "secondary_tags": []
+  },
+  {
+    "name": "Super Formula",
+    "channelID": "UCBRZGokm2-SNYfvFWy3hfYg",
+    "primary_tag": "SF",
+    "secondary_tags": []
+  },
+  {
+    "name": "Super GT",
+    "channelID": "UCy-v0TWgjklAlOq-chcI4GA",
+    "primary_tag": "SGT",
+    "secondary_tags": []
+  },
+  {
+    "name": "Super Taikyu",
+    "channelID": "UC8sfQKfk_4_JePSHSupvT4w",
+    "primary_tag": "ST",
+    "secondary_tags": []
+  },
+  {
+    "name": "Supercars Championship",
+    "channelID": "UCcCBrelNGfpchXKLFt8gtKg",
+    "primary_tag": "SUPERCARS",
+    "secondary_tags": []
+  },
+  {
+    "name": "TCR South America",
+    "channelID": "UCo_cTHiN67iWW1eLpLtj8gg",
+    "primary_tag": "TCRSA",
+    "secondary_tags": []
+  },
+  {
+    "name": "TCR Worldwide",
+    "channelID": "UCoSlmLSprEnTz7HjmMb7HBw",
+    "primary_tag": "TCR",
+    "secondary_tags": ["TCRWT"]
+  },
+  {
+    "name": "USF Pro Championships",
+    "channelID": "UCmBaJqxGBm3_1K2MS7npc7g",
+    "primary_tag": "USF2000",
+    "secondary_tags": ["USFPRO", "USFJRS"]
+  },
+  {
+    "name": "Winter Series",
+    "channelID": "UCz8Zse4Gz7q8y1GCIl_nq8w",
+    "primary_tag": "GTWS",
+    "secondary_tags": ["GT4WS", "PTWS", "FWS"]
+  },
+  {
+    "name": "World Rally-Raid Championship",
+    "channelID": "UC0Sj3veUgMwNA-dCSYd9RKw",
+    "primary_tag": "W2RC",
+    "secondary_tags": []
+  }
+]
